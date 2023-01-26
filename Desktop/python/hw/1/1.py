@@ -1,5 +1,5 @@
-name_user = input('Введите ваше имя - ')
-user_password = input('Введите ваш пароль - ')
-user_age = int(input('Введите ваш возраст - '))
-print(f'Ваши данные для входа в аккаунт: имя - {name_user}, '
-      f'пароль - {user_password}, возраст - {user_age}')
+user_name = input('Как Вас зовут? ')
+user_password = input('Введите ваш пароль: ')
+user_age = int(input('Сколько Вам лет? '))
+print(f'Ха-ха, теперь ты у меня в руках!: {user_name}, '
+      f'твой пароль - {user_password}, твой возраст - {user_age}')
