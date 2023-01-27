@@ -8,5 +8,5 @@
 # n + nn + nnn = 369
 num = str(input('Введите целое положительное число n - '))
 
-m = int(num) + int(num+num) + int(num+num+num)
+m = int(num) + int(num + num) + int(num + num + num)
 print(f'n+nn+nnn = {m}')
