@@ -11,15 +11,6 @@
 Введите целые числа через пробел: 1 2 3
 Результат: 2 1 3
 """
-# my_list = list(input('Введите значения: ').split())
-# new_list = []
-# for i in range(0, len(my_list), 2):
-#     next_i = i + 2
-#     a = my_list[i:next_i]
-#     a.reverse()
-#     new_list.extend(a)
-# print(new_list)
-
 
 list = input('Введите целые числа через пробел: ').split()
 new_lst = []
