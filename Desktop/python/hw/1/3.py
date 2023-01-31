@@ -6,7 +6,7 @@
 # Пример:
 # Введите число n: 3
 # n + nn + nnn = 369
-num = str(input('Введите целое положительное число n - '))
+num = (input('Введите целое положительное число n - '))
 
 m = int(num) + int(num + num) + int(num + num + num)
 print(f'n+nn+nnn = {m}')
