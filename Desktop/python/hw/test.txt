@@ -1,0 +1,1 @@
+& C:/Users/leoni/AppData/Local/Programs/Python/Python311/python.exe c:/Users/leoni/Desktop/python/hw/8/2.py
